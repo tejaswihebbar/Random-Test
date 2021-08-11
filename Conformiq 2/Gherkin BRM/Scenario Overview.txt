@@ -1,5 +1,0 @@
-FEATURE : Sprint 1
------------------------------
-SCENARIO 1: Error - Login
-SCENARIO 2: Node Business Activity 'logout' [2]
-SCENARIO 3: Login Success [2]
