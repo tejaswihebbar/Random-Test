@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?conformiq-designer-gen 1628227349825?><metadata creator_asset_version="8">
+  <mapping key="checkpoint-group:ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Diagram 'Login in BRM'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint-group:ad-node._A9uLEPR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Diagram 'Login in BRM'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint-group:custom.data.ad _A9uLEPR2EeuN7oO68Q51Ag _hbKwwPUZEeuwMta1_fpczQ">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Diagram 'Login in BRM' . Business Activity 'Enter Credentials'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">data</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint-group:custom.decision.ad _A9uLEPR2EeuN7oO68Q51Ag _iya0oPR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Diagram 'Login in BRM' . Decision 'Decision Node 1'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">decision</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag._FhFvYPZ1EeumA4ZAIWyOBw">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Business Activity 'Forgot Password' -&gt; Business Activity 'logout'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_FhFvYPZ1EeumA4ZAIWyOBw</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Business Activity 'Forgot Password' -&gt; Business Activity 'logout'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.source</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._YLyNEPU6EeuwMta1_fpczQ</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.target</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._EYhk0PZ1EeumA4ZAIWyOBw</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.label</qmlstring>
+        <qmlstring type="String"/>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag._RFo7MPZ2EeumA4ZAIWyOBw">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Business Activity 'Login Success' -&gt; Business Activity 'logout'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_RFo7MPZ2EeumA4ZAIWyOBw</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Business Activity 'Login Success' -&gt; Business Activity 'logout'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.source</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._RW-4gPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.target</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._EYhk0PZ1EeumA4ZAIWyOBw</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.label</qmlstring>
+        <qmlstring type="String"/>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag._g-EiEPU6EeuwMta1_fpczQ">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Event 'Event Node 1' -&gt; Business Activity 'Forgot Password'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_g-EiEPU6EeuwMta1_fpczQ</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Event 'Event Node 1' -&gt; Business Activity 'Forgot Password'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.source</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._gQ7IMPU6EeuwMta1_fpczQ</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.target</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._YLyNEPU6EeuwMta1_fpczQ</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.label</qmlstring>
+        <qmlstring type="String"/>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag._h6E3UPU6EeuwMta1_fpczQ">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Event 'Event Node 1' -&gt; Business Activity 'Enter Credentials'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_h6E3UPU6EeuwMta1_fpczQ</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Event 'Event Node 1' -&gt; Business Activity 'Enter Credentials'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.source</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._gQ7IMPU6EeuwMta1_fpczQ</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.target</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._hbKwwPUZEeuwMta1_fpczQ</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.label</qmlstring>
+        <qmlstring type="String"/>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag._mdxsEPR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Decision 'Decision Node 1' -- "valid" -&gt; Business Activity 'Login Success'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_mdxsEPR2EeuN7oO68Q51Ag</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Decision 'Decision Node 1' -- "valid" -&gt; Business Activity 'Login Success'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.source</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._iya0oPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.target</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._RW-4gPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.label</qmlstring>
+        <qmlstring type="String">"valid"</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag._ok7owPUZEeuwMta1_fpczQ">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Business Activity 'Enter Credentials' -&gt; Decision 'Decision Node 1'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_ok7owPUZEeuwMta1_fpczQ</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Business Activity 'Enter Credentials' -&gt; Decision 'Decision Node 1'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.source</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._hbKwwPUZEeuwMta1_fpczQ</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.target</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._iya0oPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.label</qmlstring>
+        <qmlstring type="String"/>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag._oy6-gPR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Decision 'Decision Node 1' -- "invalid" -&gt; Business Activity 'Error'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_oy6-gPR2EeuN7oO68Q51Ag</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Decision 'Decision Node 1' -- "invalid" -&gt; Business Activity 'Error'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.source</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._iya0oPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.target</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._cfdBwPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.label</qmlstring>
+        <qmlstring type="String">"invalid"</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag._qaRW0PR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Initial -&gt; Business Activity 'Launch browser'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_qaRW0PR2EeuN7oO68Q51Ag</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Initial -&gt; Business Activity 'Launch browser'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.source</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._B7wgoPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.target</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._DLUEAPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.label</qmlstring>
+        <qmlstring type="String"/>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag._rrWvsPUwEeuwMta1_fpczQ">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Business Activity 'Launch browser' -&gt; Event 'Event Node 1'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_rrWvsPUwEeuwMta1_fpczQ</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Business Activity 'Launch browser' -&gt; Event 'Event Node 1'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.source</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._DLUEAPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.target</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag._gQ7IMPU6EeuwMta1_fpczQ</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.label</qmlstring>
+        <qmlstring type="String"/>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-node._A9uLEPR2EeuN7oO68Q51Ag._B7wgoPR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Initial</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_B7wgoPR2EeuN7oO68Q51Ag</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Initial</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-node._A9uLEPR2EeuN7oO68Q51Ag._DLUEAPR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Business Activity 'Launch browser'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_DLUEAPR2EeuN7oO68Q51Ag</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Business Activity 'Launch browser'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-node._A9uLEPR2EeuN7oO68Q51Ag._EYhk0PZ1EeumA4ZAIWyOBw">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Business Activity 'logout'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_EYhk0PZ1EeumA4ZAIWyOBw</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Business Activity 'logout'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-node._A9uLEPR2EeuN7oO68Q51Ag._RW-4gPR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Business Activity 'Login Success'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_RW-4gPR2EeuN7oO68Q51Ag</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Business Activity 'Login Success'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-node._A9uLEPR2EeuN7oO68Q51Ag._YLyNEPU6EeuwMta1_fpczQ">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Business Activity 'Forgot Password'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_YLyNEPU6EeuwMta1_fpczQ</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Business Activity 'Forgot Password'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-node._A9uLEPR2EeuN7oO68Q51Ag._cfdBwPR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Business Activity 'Error'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_cfdBwPR2EeuN7oO68Q51Ag</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Business Activity 'Error'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-node._A9uLEPR2EeuN7oO68Q51Ag._gQ7IMPU6EeuwMta1_fpczQ">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Event 'Event Node 1'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_gQ7IMPU6EeuwMta1_fpczQ</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Event 'Event Node 1'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-node._A9uLEPR2EeuN7oO68Q51Ag._hbKwwPUZEeuwMta1_fpczQ">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Business Activity 'Enter Credentials'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_hbKwwPUZEeuwMta1_fpczQ</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Business Activity 'Enter Credentials'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-node._A9uLEPR2EeuN7oO68Q51Ag._iya0oPR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Decision 'Decision Node 1'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_iya0oPR2EeuN7oO68Q51Ag</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Decision 'Decision Node 1'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node._A9uLEPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:data.!data.ad _A9uLEPR2EeuN7oO68Q51Ag _hbKwwPUZEeuwMta1_fpczQ.businessrow _hbKw1fUZEeuwMta1_fpczQ">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">data</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Parameter Value Set 2: User ID = "invalid", Password = "any"</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_hbKwwPUZEeuwMta1_fpczQ</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Parameter Value Set 2: User ID = "invalid", Password = "any"</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">custom.data.ad _A9uLEPR2EeuN7oO68Q51Ag _hbKwwPUZEeuwMta1_fpczQ</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:data.!data.ad _A9uLEPR2EeuN7oO68Q51Ag _hbKwwPUZEeuwMta1_fpczQ.businessrow _hbKwzvUZEeuwMta1_fpczQ">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">data</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Parameter Value Set 1: User ID = "valid", Password = "valid"</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_hbKwwPUZEeuwMta1_fpczQ</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Parameter Value Set 1: User ID = "valid", Password = "valid"</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">custom.data.ad _A9uLEPR2EeuN7oO68Q51Ag _hbKwwPUZEeuwMta1_fpczQ</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:decision.!decision.ad _A9uLEPR2EeuN7oO68Q51Ag _iya0oPR2EeuN7oO68Q51Ag.decision case _mdxsEfR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">decision</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">'User ID' Parameter of 'Enter Credentials' Business Activity is "valid"</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_iya0oPR2EeuN7oO68Q51Ag</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">'User ID' Parameter of 'Enter Credentials' Business Activity is "valid"</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">custom.decision.ad _A9uLEPR2EeuN7oO68Q51Ag _iya0oPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:decision.!decision.ad _A9uLEPR2EeuN7oO68Q51Ag _iya0oPR2EeuN7oO68Q51Ag.decision case _oy6-gfR2EeuN7oO68Q51Ag">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">decision</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">'User ID' Parameter of 'Enter Credentials' Business Activity is "invalid"</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_iya0oPR2EeuN7oO68Q51Ag</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">'User ID' Parameter of 'Enter Credentials' Business Activity is "invalid"</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">custom.decision.ad _A9uLEPR2EeuN7oO68Q51Ag _iya0oPR2EeuN7oO68Q51Ag</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:requirement.!requirement.ad _A9uLEPR2EeuN7oO68Q51Ag _RW-4gPR2EeuN7oO68Q51Ag.com.conformiq.requirements.excel-E:/Conformiq Workspace/Workspace 4.3.1/Requirements Input.xls-req-2">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">requirement</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Login Success</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_RW-4gPR2EeuN7oO68Q51Ag</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Login Success</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">requirement.identifier</qmlstring>
+        <qmlstring type="String">com.conformiq.requirements.excel-E:/Conformiq Workspace/Workspace 4.3.1/Requirements Input.xls-req-2</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">split</qmlstring>
+        <qmlstring type="String">false</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">requirement</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:requirement.!requirement.ad _A9uLEPR2EeuN7oO68Q51Ag _cfdBwPR2EeuN7oO68Q51Ag.com.conformiq.requirements.excel-E:/Conformiq Workspace/Workspace 4.3.1/Requirements Input.xls-req-1">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">requirement</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Error - Login</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Login in BRM.ad#_cfdBwPR2EeuN7oO68Q51Ag</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Error - Login</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">requirement.identifier</qmlstring>
+        <qmlstring type="String">com.conformiq.requirements.excel-E:/Conformiq Workspace/Workspace 4.3.1/Requirements Input.xls-req-1</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">split</qmlstring>
+        <qmlstring type="String">false</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">requirement</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="portinfo:inbound:input_port">
+    <qmlarray type="[]">
+      </qmlarray>
+  </mapping>
+  <mapping key="portinfo:outbound:output_port">
+    <qmlarray type="[]">
+      </qmlarray>
+  </mapping>
+  <qmlrecordtype name="Creator_Trace_Value">
+    <fieldtype name="serialized" type="String"/>
+  </qmlrecordtype>
+  <qmlrecordtype name="External_Output">
+    </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_activity adqmlc3c2c12d7af54ad2a6f2555570e099cb_xmi_5FDLUEAPR2EeuN7oO68Q51Ag_q_P">
+    </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_activity adqmlc3c2c12d7af54ad2a6f2555570e099cb_xmi_5FEYhk0PZ1EeumA4ZAIWyOBw_q_P">
+    </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_activity adqmlc3c2c12d7af54ad2a6f2555570e099cb_xmi_5FRW_2D4gPR2EeuN7oO68Q51Ag_q_P">
+    </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_activity adqmlc3c2c12d7af54ad2a6f2555570e099cb_xmi_5FYLyNEPU6EeuwMta1_5FfpczQ_q_P">
+    </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_activity adqmlc3c2c12d7af54ad2a6f2555570e099cb_xmi_5FcfdBwPR2EeuN7oO68Q51Ag_q_P">
+    </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_activity adqmlc3c2c12d7af54ad2a6f2555570e099cb_xmi_5FhbKwwPUZEeuwMta1_5FfpczQ_q_P">
+    <fieldtype name="qmla869b19a7e6d4e9080c47f15dfa6f53b" type="String"/>
+    <fieldtype name="qml0fe1c2872bec4cbf849ffe4317033638" type="String"/>
+  </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_when_explicit adqmlc3c2c12d7af54ad2a6f2555570e099cb_xmi_5FFojigPR2EeuN7oO68Q51Ag_q_P">
+    </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_when_explicit adqmlc3c2c12d7af54ad2a6f2555570e099cb_xmi_5FZlvCkPU6EeuwMta1_5FfpczQ_q_P">
+    </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_when_explicit adqmlc3c2c12d7af54ad2a6f2555570e099cb_xmi_5FgSNogPZ1EeumA4ZAIWyOBw_q_P">
+    </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_when_explicit adqmlc3c2c12d7af54ad2a6f2555570e099cb_xmi_5FhbKwwfUZEeuwMta1_5FfpczQ_q_P">
+    <fieldtype name="qmla869b19a7e6d4e9080c47f15dfa6f53b" type="String"/>
+    <fieldtype name="qml0fe1c2872bec4cbf849ffe4317033638" type="String"/>
+  </qmlrecordtype>
+  <qmlstringtype name="String"/>
+  <qmlbooleantype name="boolean"/>
+  <qmlbooleantype name="boolean?"/>
+  <qmlnumbertype name="byte"/>
+  <qmlnumbertype name="char"/>
+  <qmlnumbertype name="char?"/>
+  <qmlnumbertype name="double"/>
+  <qmlnumbertype name="double?"/>
+  <qmlnumbertype name="float"/>
+  <qmlnumbertype name="float?"/>
+  <qmlnumbertype name="int"/>
+  <qmlnumbertype name="int?"/>
+  <qmlnumbertype name="long"/>
+  <qmlnumbertype name="long?"/>
+  <qmlnumbertype name="short"/>
+  <qmlnumbertype name="short?"/>
+</metadata>
