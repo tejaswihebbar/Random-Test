@@ -4,7 +4,7 @@
   <projectProperties key="CreatorDataDistribution" value="false"/>
   <projectProperties key="IntelligentTestCaseNaming" value="true"/>
   <projectProperties key="LookAheadDepth" value="0"/>
-  <projectProperties key="MainActivityDiagram"/>
+  <projectProperties key="MainActivityDiagram" value="model/Activity Diagram.ad"/>
   <projectProperties key="OnlyFinalizedRuns" value="false"/>
   <projectProperties key="TestCaseIndexOffset" value="0"/>
   <projectProperties key="TestCaseNamePrefix" value="Test Case "/>
